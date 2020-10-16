@@ -1,0 +1,120 @@
+.clearfix{
+    clear: both;
+    float: none;
+}
+.box{
+    border: solid grey 1px;
+    margin-top: 10%;
+    padding-bottom: 5%;
+}
+.part1{
+    float: right;
+    width: 50%;
+    text-align: right;
+    margin-top: 5%;
+}
+.part1 label{
+    display: block !important;
+}
+.part1 input{
+    border: hidden;
+}
+.part2{
+    float: right;
+    width: 50%;
+    text-align: right;
+    margin-top: 5%;
+}
+.part2 label{
+    display: block !important;
+}
+.part2 input{
+    border: hidden;
+}
+.part1 select, .part2 select{
+    width: 120px;
+    border-radius: 8px;
+    padding-left: 38px;
+    margin-right: 20px;
+}
+.up{
+    width: 200px;
+    height: 45px;
+    background-color: grey;
+    text-align: center;
+    margin: -24px 428px;
+}
+.part3{
+    float: right;
+    width: 50%;
+    text-align: right;
+    padding-right: 60px;
+    margin-top: 50px;
+}
+.butt{
+    float: right;
+    width: 50%;
+    margin-top: 50px;
+    text-align: center;
+}
+.secendbutt{
+    margin-top: 21%;
+text-align: left !important;
+}
+.butt button{
+    width: 170px;
+    /* margin-left: 20px; */
+}
+.skills button{
+    background-color: papayawhip;
+}
+.skills{
+    text-align: right;
+    margin-top: 60px;
+}
+.addskills{
+    float: right;
+    width: 50%;
+    margin-top: 8%;
+    text-align: right;
+}
+.addskills input::placeholder{
+    text-align: right;
+}
+.addskills input{
+    height: 45px;
+    width: 250px;
+}
+.addskills button{
+    height: 45px;
+    margin-top: -6px;
+    width: 50px;
+}
+.controlbut{
+    margin-top: 8%;
+}
+.controlbut button{
+    width: 170px;
+    margin-left: 10px;
+}
+.resu{
+    width: 5%;
+    margin-left: 100px;
+}
+.resu img{
+    width: 80px;
+    height: 80px;
+}
+.addlink{
+    width: 50%;
+    float:right;
+    text-align: right;
+    margin-top: 60px;
+}
+.addlink .btnlink{
+    background-color: papayawhip;
+}
+.addfile{
+    margin-top: 32%;
+    text-align: right;
+}
